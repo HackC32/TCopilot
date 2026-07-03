@@ -1,9 +1,6 @@
        identification division.
-       program-id. PROG01TESTCOB01.
-       
-       environment division.
-       configuration section.
-       
+       program-id. COBCH1001.
+        environment division.
        data division.
        working-storage section.
        
@@ -14,4 +11,4 @@
         
         goback.
        
-       end program PROG01TESTCOB01.
+       end program COBCH1001.
